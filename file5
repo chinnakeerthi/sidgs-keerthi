@@ -1,0 +1,13 @@
+<!Doctype Html>  
+<Html>     
+<Head>      
+<Title>     
+Change the background color using Inline style attribute  
+</Title>  
+</Head>  
+<Body style="background-color:orange">   
+This page helps you to understand how to change the backround color of a web page. <br>  
+<br>  
+And, this section helps you to understand how to change the backround color of an Html page using the style attribute.  
+</Body>  
+</Html>   
